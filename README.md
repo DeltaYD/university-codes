@@ -1,2 +1,2 @@
 # university-codes
-Classroom assignments
+This repository contains my classroom assignments
