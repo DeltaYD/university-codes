@@ -8,5 +8,5 @@ A three-part project in a registry management system where the concepts of datab
 Totals to 18 exercises and their respective C files.
 
 ### 🧪 SCC0220 - Introduction to Computer Science II Laboratory
-On-going course on sorting algorithms, complexity evaluation, and time analysis.
+Practical course on sorting algorithms, complexity evaluation, and time analysis.
 
