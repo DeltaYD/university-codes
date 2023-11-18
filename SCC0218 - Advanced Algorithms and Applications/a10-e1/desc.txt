@@ -1,0 +1,7 @@
+Seja uma entrada formada por 2 strings: a) um texto e b) um padrao. O texto pode conter até 260000 caracteres e o padrão no máximo 1000 caracteres.
+
+Escreva um programa que ilustra a posição no texto (indexado a partir do índice 0) a ocorrência do padrão. Você deverá implementar uma versão KMP de processamento de strings.
+
+INPUT Ola como vai como
+
+OUTPUT O padrao foi encontrado na posicao 4

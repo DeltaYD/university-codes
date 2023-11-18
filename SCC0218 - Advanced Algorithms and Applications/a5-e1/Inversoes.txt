@@ -1,0 +1,28 @@
+Contando a quantidade de inversoes
+
+
+Formalmente, dois elementos de um vetor formam uma inversao se
+a[i] > a[j] and i < j.
+
+Faça um programa, usando o paradigma de divisao e conquista que conte
+o número de inversoes em um vetor. 
+
+O vetor é de inteiros e pode conter até 10000 elementos
+
+INPUT
+
+A primeira linha da entrada contem o nro de casos de testes (1<= N <= 100)
+Cada uma das N linhas subsequentes contém um inteiro C (1 <= C <= 10000) seguido
+dos C valores inteiros do vetor.
+
+INPUT SAMPLE:
+
+2
+50 37 7 2 14 35 47 10 24 44 17 34 11 16 48 1 39 6 33 43 26 40 4 28 5 38 41 42 12 13 21 29 18 3 19 0 32 46 27 31 25 15 36 20 8 9 49 22 23 30 45 
+5 1 20 6 4 5
+
+
+OUTPUT:
+
+590
+5
